@@ -7,7 +7,7 @@ Productionized Machine Learning Model for Salary Prediction
 
 A demom version of this app 
 
-Dataset has been loaded in the data folder. The raw version of the data can be found at https://archive.ics.uci.edu/ml/machine-learning-databases/adult/. 
+Dataset has been loaded in the data folder. The raw version of the data can be found at https://www.kaggle.com/datasets/overload10/adult-census-dataset 
 
 We have used three machine learning models for the prediction aspects. 
 
