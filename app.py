@@ -7,7 +7,7 @@ import pandas as pd
 import numpy as np
 
 # Data Viz Pkgs
-#pip install matplotlib
+pip install matplotlib
 
 import matplotlib 
 matplotlib.use('Agg')
