@@ -24,6 +24,14 @@ Dependencies:
 * streamlit
 * eli5
 
+![WhatsApp Image 2023-07-06 at 6 38 54 PM](https://github.com/Dubeyrock/Adult-Census-Income-Prediction-project-/assets/96882359/ec391b3b-75bc-43b6-bdfe-be2ccf45f9c6) 
+
+![WhatsApp Image 2023-07-06 at 6 38 52 PM](https://github.com/Dubeyrock/Adult-Census-Income-Prediction-project-/assets/96882359/b49ebcd1-0577-496b-8dfc-91eeb36e9011) 
+
+ ![WhatsApp Image 2023-07-06 at 6 38 54 PM (1)](https://github.com/Dubeyrock/Adult-Census-Income-Prediction-project-/assets/96882359/0295170a-4b47-4fb6-8037-1947af74bad7)
+
+
+
 
 
 
