@@ -13,6 +13,11 @@ We have used three machine learning models for the prediction aspects.
 
 The web framework used for the project is Streamlit.
 
+
+![Adult_Census_Income_Report (1)](https://github.com/Dubeyrock/iNeuron.ai-Adult-Census-Income-Prediction-project-/assets/96882359/6c02044a-e990-434b-9609-dd23aa684b59) 
+
+
+
 Dependencies:
 
 * pandas
@@ -31,6 +36,8 @@ Dependencies:
  ![WhatsApp Image 2023-07-06 at 6 38 54 PM (1)](https://github.com/Dubeyrock/Adult-Census-Income-Prediction-project-/assets/96882359/0295170a-4b47-4fb6-8037-1947af74bad7)
 
 https://youtu.be/g69DcgKCUhs?si=QXKsNg2JFnt_Um1U 
+
+
 
 
 
