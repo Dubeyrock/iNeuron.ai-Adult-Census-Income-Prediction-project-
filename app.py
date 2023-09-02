@@ -7,7 +7,7 @@ import pandas as pd
 import numpy as np
 
 # Data Viz Pkgs
-import matplotlib 
+import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -124,13 +124,14 @@ def main():
 		# st.subheader("EDA Section")
 		# st.text("Exploratory Data Analysis")
 		# Preview Our Data
-		
+		st.text('Find the actual Jupyter Notebook below:')
+		url = 'https://github.com/tattwadarshi'
 		if st.button('Jupyter Notebook'):
 			webbrowser.open_new_tab(url)
 
 		st.text("Find the streamlit code and associated files below:")
 
-		url = 'https://github.com/Dubeyrock'
+		url = 'https://github.com/tattwadarshi'
 		if st.button('app.py'):
 			webbrowser.open_new_tab(url)
 
@@ -353,22 +354,22 @@ def main():
 		# st.subheader("About")
 		st.markdown("""
 			## Productionizing Machine Learning Models
-			### Adult Census Income Prediction Machine Learning Web Application 
+			### Salary Prediction Machine Learning Web Application 
 			#### Built with Streamlit
 
 			### By
-			+ Shivam Dubey
-			+ shivvam2002@gmail.com
+			+ Tattwa Darshi Panda
+			+ tdpdatascientist@gmail.com
 
 			""")
 
-		url = 'https://github.com/Dubeyrock'
+		url = 'https://github.com/tattwadarshi'
 		if st.button('Github'):
 			webbrowser.open_new_tab(url)
-		url = 'https://www.linkedin.com/in/shivam-dubey-371a591a8/'
+		url = 'https://www.linkedin.com/in/tattwadarshi/'
 		if st.button('Linkedln'):
 			webbrowser.open_new_tab(url)
-		st.markdown("![Adult Census Income Prediction Machine Learning Web Application](https://media.giphy.com/media/3o8dFzIXb0qaE3pYWs/giphy.gif)")
+		st.markdown("![Salary Prediciton Machine Learning Web Application](https://media.giphy.com/media/3o8dFzIXb0qaE3pYWs/giphy.gif)")
 
 
 
@@ -379,3 +380,9 @@ def main():
 
 if __name__ == '__main__':
 	main()
+
+
+
+  
+
+
