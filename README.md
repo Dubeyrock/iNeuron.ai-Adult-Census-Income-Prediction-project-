@@ -30,6 +30,7 @@ Dependencies:
 
  ![WhatsApp Image 2023-07-06 at 6 38 54 PM (1)](https://github.com/Dubeyrock/Adult-Census-Income-Prediction-project-/assets/96882359/0295170a-4b47-4fb6-8037-1947af74bad7)
 
+https://youtu.be/g69DcgKCUhs?si=QXKsNg2JFnt_Um1U 
 
 
 
