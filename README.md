@@ -8,9 +8,7 @@ Productionized Machine Learning Model for Salary Prediction
 A demom version of this app 
 
 
-
-Uploading WhatsApp Video 2023-09-20 at 01.53.22.mp4…
-
+https://github.com/Dubeyrock/iNeuron.ai-Adult-Census-Income-Prediction-project-/assets/96882359/1fe278ac-4675-4e42-8ab9-b9f681ea80ac
 
 
 Dataset has been loaded in the data folder. The raw version of the data can be found at https://www.kaggle.com/datasets/overload10/adult-census-dataset 
